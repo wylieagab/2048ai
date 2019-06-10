@@ -15,5 +15,8 @@ To run:
 
 Modify Heuristics:
 	Weights and Heuristsics can be adjusted in Accessors_3.py. 
+	
+Sources: 
+	Columbia CS for board and basic functions. Original Implementation using Expectimax and ab tuning and hueristics by Wylie Gab.
 
 Enjoy the game!
